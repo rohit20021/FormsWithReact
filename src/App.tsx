@@ -1,4 +1,4 @@
-import Form from "./components/form/usingformHook/Form";
+import Form from "./components/practiceForm/usingformHook/Form";
 
 function App() {
   return (
